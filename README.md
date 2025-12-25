@@ -7,10 +7,12 @@
   <link rel="stylesheet" href="style.css">
 </head>
   <link rel="stylesheet" href="style.css" />
+    
 </head><meta name="description" content="Öğrenciler için gönüllülük rehberi. Gönüllülük projeleri, sosyal sorumluluk fırsatları ve başvuru bilgileri.">
 <body>
   <header>
     <h1>Gönüllülük Rehberi|Öğrenciler İçin Gönüllülük Projeleri</h1>
+      
     <p>Bu site, öğrencilerin gönüllülük projelerini keşfetmesi, hangi alanlarda gönüllü olabileceklerini öğrenmesi 
       ve uygun projelere yönlendirilmesi amacıyla hazırlanmıştır. </p>
   </header>  </ul>
