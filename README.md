@@ -15,7 +15,7 @@
       
     <p>Bu site, öğrencilerin gönüllülük projelerini keşfetmesi, hangi alanlarda gönüllü olabileceklerini öğrenmesi 
       ve uygun projelere yönlendirilmesi amacıyla hazırlanmıştır. </p>
-  </header>  </ul>
+  </header>  
 
 
   
@@ -144,9 +144,6 @@
 
   <button class="menu-toggle" onclick="toggleMenu()">☰</button>
 
-  <nav id="menu">
-    <a href="#">Ana Sayfa</a>
+  
     <a href="#">Gönüllülük Alanları</a>
-    <a href="#">İletişim</a>
-  </nav>
-</header>
+
