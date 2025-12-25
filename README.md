@@ -1,6 +1,4 @@
-     <div class="hero mini-hero">
-  <h1>Gönüllülük Rehberi</h1>
-  <p>Öğrenciler için gönüllülük projeleri</p>
+    
 
 <html lang="tr">
 <head>
